@@ -1,3 +1,3 @@
-# C++ Doğum Günü Hesaplama
+# C++ Basit Hesap Makinesi
 
-> Basit bir C++ yaş hesaplayıcı.
+> Basit bir C++ Hesap Makinesi.
